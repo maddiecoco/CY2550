@@ -1,1 +1,1 @@
-coco.m@northeastern.edu.shadow
+coco.m@northeastern.edu
